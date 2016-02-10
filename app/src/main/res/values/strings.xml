@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BaulNuevoPermiso</string>
+    <string name="etiqueta">llamadas de emergencia retringidas</string>
+    <string name="descripcion">Permite poner mas seguridad al uso de las llamadas de emergencia</string>
+</resources>
